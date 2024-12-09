@@ -14,33 +14,8 @@
 
 ## Skill Set:
 
-<table><tr><td valign="top" width="25%">
+[![My Skills](https://skillicons.dev/icons?i=js,py,react,redux,html,css,aws,docker,express,sequelize,flask,vite,sqlite,linux,nodejs,npm,postgres,postman,)](https://skillicons.dev)
 
-### Frontend  
-<a href="https://github.com/tayyabadev">
-<div align="center">  
-       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js&perline=4" /> 
-</div>
-</a>
- </td><td valign="top" width="25%">
-        
-### Languages
-<a href="https://github.com/tayyabadev">
-<div align="center">
-       <img src="https://skillicons.dev/icons?i=c,js,cpp,java,python,&perline=4" /> 
-</div>
-</a>
-
-</td><td valign="top" width="25%">
-  
-### Others
-<a href="https://github.com/tayyabadev">
-<div align="center">
-       <img src="https://skillicons.dev/icons?i=git,github,npm,figma,vscode,vercel,discord,vscodeqt&perline=4" /> 
-</div>
-</a>
-</td>
-</tr></table>
 
 
 ## Connect with me:
