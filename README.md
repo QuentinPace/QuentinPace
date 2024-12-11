@@ -1,15 +1,10 @@
 # Hi, I'm Quentin Pace
 
 ## About Me:
-
--
--
--
--
--
--
--
--
+- I'm a passionate and driven software engineer dedicated to delivering high-quality applications that make an impact!
+- I'm a graduate of App Academy (awarded Best Coding Bootcamp by Course Report for eight consecutive years, 2017–2024), after over 1,000 hours of extensive curriculum.
+- I'm currently learning TypeScript and working on Habito, an application where users can enroll in programs, acheive badges, maintain streaks, and build good habits over a period of time.
+- I'm on the hunt for a junior SWE role.
 
 ## Skills:
 
