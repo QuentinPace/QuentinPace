@@ -1,4 +1,4 @@
-# Hi, I'm Quentin Pace
+# Hi, I'm Quentin Pace 👋
 
 ## About Me:
 - I'm a passionate and driven software engineer dedicated to delivering high-quality applications that make an impact!
