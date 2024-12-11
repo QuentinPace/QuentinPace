@@ -1,4 +1,4 @@
-tinepace@gmail.com# Hi, I'm Quentin Pace
+# Hi, I'm Quentin Pace
 
 ## About Me:
 
