@@ -29,7 +29,7 @@
 
  ## Github Stats:
 <p align="center">
-    <a href="https://github.com/tayyabadev">
+    <a href="https://github.com/quentinpace">
         <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=quentinpace&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true"/>
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=quentinpace&langs_count=12&layout=compact&langs_count=8&theme=onedark&include_all_commits=true&count_private=true&hide_border=true" />
     </a>
@@ -41,13 +41,6 @@
   </a> 
 </p>
 
-
- <p align="center">
-   <a href="https://github.com/tayyabadev"> 
-     <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=tayyabadev&show_icons=true&locale=en&layout=demo&theme=Onedark&hide_border=true" /> 
-   </a>  
- </p>
-
 <br>
 
 <div id="header" align="center">
@@ -56,15 +49,14 @@
   
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-  <img src="https://komarev.com/ghpvc/?username=tayyabdev&style=for-the-badge&color=orange" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=quentinpacev&style=for-the-badge&color=orange" alt=""/>
 </div>
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
-
 #
 
 <!-- <div align="center">
-  <a href="https://github.com/tayyabadev">
+  <a href="https://github.com/quentinpace">
     <img src="https://quotes-github-readme.vercel.app/api?theme=dark">
   </a>
  </div> -->
