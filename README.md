@@ -22,6 +22,7 @@
     <a href="https://www.linkedin.com/in/quentin-pace-507820300" target="_blank"><img src="https://img.shields.io/badge/-Quentin Pace-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
     <a href="mailto:quentinepace@gmail.com"><img src="https://img.shields.io/badge/-quentinepace@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
     <a href="https://leetcode.com/u/quentinpace/" target="_blank"><img src="https://img.shields.io/badge/-Quentin Pace-FFA116?style=flat&logo=LeetCode&logoColor=white"/></a>
+    <a href="mailto:quentinepace@gmail.com"><img src="https://img.shields.io/badge/Number- 317 941 1152-FFA116?style=flat&color=green"/></a>
 </div>
 
  ## Github Stats:
