@@ -1,9 +1,13 @@
 <!-- Readme gif designed by Davids https://github.com/DavidsDvm/DavidsDvm/edit/main/README.md -->
-Hi there! I’m Quentin Pace, a full-stack software engineer based in Indiana. I love building applications that are fast, functional, and easy to use—whether it’s a fin-tech platform, a habit tracker, or a community-driven marketplace. When I’m not coding, you can find me lifting at the gym, perfecting my golf swing, or on adventures with my little one.
+Hi there!
+
+I’m Quentin Pace, a full-stack software engineer based in Indiana. I love building applications that are fast, functional, and easy to use—whether it’s a fin-tech platform, a habit tracker, or a community-driven marketplace.
+
+When I’m not coding, you can find me lifting at the gym, perfecting my golf swing, or on adventures with my little one.
 <!-- Social icons section -->
 <h1 align="center"> Connect with me: </h1>
 <p align="center">
-  <a href="https://www.linkedin.com/in/tan-jia-shun-30537a186/"><img src="https://img.shields.io/badge/linkedin-4c8ed9?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/quentin-pace-507820300/"><img src="https://img.shields.io/badge/linkedin-4c8ed9?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:quentinepace@gmail.com"><img src="https://img.shields.io/badge/SEND%20MAIL-4c8ed9?&style=for-the-badge&logo=MAIL.RU&logoColor=white" /></a>
 </p>
 
