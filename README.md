@@ -1,5 +1,5 @@
 <!-- Readme gif designed by Davids https://github.com/DavidsDvm/DavidsDvm/edit/main/README.md -->
- Hello 👋. I'm a student currently studying cyber security & digital forensics with knowledge and great experience in information technology. I enjoy coding, designing of new application and website, and often contribute on fun open-source project on my free time.
+Hi there! I’m Quentin Pace, a full-stack software engineer based in Indiana. I love building applications that are fast, functional, and easy to use—whether it’s a fin-tech platform, a habit tracker, or a community-driven marketplace. When I’m not coding, you can find me lifting at the gym, perfecting my golf swing, or on adventures with my little one.
 <!-- Social icons section -->
 <h1 align="center"> Connect with me: </h1>
 <p align="center">
