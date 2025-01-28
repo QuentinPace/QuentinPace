@@ -51,7 +51,10 @@
   <a href="https://www.linkedin.com/in/tan-jia-shun-30537a186/"><img src="https://img.shields.io/badge/linkedin-4c8ed9?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:quentinepace@gmail.com"><img src="https://img.shields.io/badge/SEND%20MAIL-4c8ed9?&style=for-the-badge&logo=MAIL.RU&logoColor=white" /></a>
 </p>
-<p align="center">
+## Skills:
+
+[![My Skills](https://skillicons.dev/icons?i=js,py,react,redux,html,css,aws,docker,express,sequelize,flask,vite,sqlite,linux,nodejs,npm,postgres,postman,)](https://skillicons.dev)
+
 <p align="center">
   <!-- Readme contribution graph designed by Ashutosh00710 https://github.com/Ashutosh00710/github-readme-activity-graph -->
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=quentinpace&theme=react-dark&hide_border=true" />
