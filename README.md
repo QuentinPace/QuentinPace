@@ -1,5 +1,5 @@
 <!-- Readme gif designed by Davids https://github.com/DavidsDvm/DavidsDvm/edit/main/README.md -->
-Hi there!
+## Hi there!
 
 I’m Quentin Pace, a full-stack software engineer based in Indiana. I love building applications that are fast, functional, and easy to use—whether it’s a fin-tech platform, a habit tracker, or a community-driven marketplace.
 
